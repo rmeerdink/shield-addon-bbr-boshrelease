@@ -1,0 +1,6 @@
+---
+final_name: shield-addon-bbr-bosh
+blobstore:
+  provider: local
+  options:
+    blobstore_path: blobs
