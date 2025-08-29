@@ -1,5 +1,5 @@
 ---
-final_name: shield-addon-bbr-bosh
+final_name: shield-addon-bbr-boshrelease
 blobstore:
   provider: local
   options:
