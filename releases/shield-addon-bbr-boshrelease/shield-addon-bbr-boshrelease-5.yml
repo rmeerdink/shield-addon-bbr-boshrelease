@@ -1,0 +1,17 @@
+name: shield-addon-bbr-boshrelease
+version: "5"
+commit_hash: 593d568
+uncommitted_changes: true
+jobs:
+- name: shield-addon-bbr
+  version: 8ad7eb6218a7a5169a5252ca1dce98d80b8ed068a9492bbdde74fe53ec7fc519
+  fingerprint: 8ad7eb6218a7a5169a5252ca1dce98d80b8ed068a9492bbdde74fe53ec7fc519
+  sha1: sha256:d5be2f5075878c7fd66cca3aebc7b916360613fd0d33471b81f54ae5f93598d4
+  packages:
+  - bbr
+packages:
+- name: bbr
+  version: bf968db7846d34877685426d70c3cc2e133457d35670332a6701924c87b7e6fe
+  fingerprint: bf968db7846d34877685426d70c3cc2e133457d35670332a6701924c87b7e6fe
+  sha1: sha256:92eea8aa6efd221b2117a18c3b6a5328513f1e923bce7feeae0ee70a8a6a301b
+  dependencies: []

@@ -1,5 +1,5 @@
 ---
 name: bbr
 dependencies: []
-#files:
-#- bbr/bbr
+files:
+- bbr
